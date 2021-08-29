@@ -1,17 +1,28 @@
 # Turn-It-Around
 Site Redesign and Rebuild 
 
+# Project and Partner Name: 
+Turn It Around 
+
+# Projected timeline: 
+Launch before October 25th, 2021 
+
+# Production site URL: 
+turnitaround.org 
+
+# Dev site URL: 
+N/A
+
+# GitHub repo link: 
+
 # Project Brief - 
 https://docs.google.com/document/d/1ugkjEZyDsu4eNkVzg1C5lBoMLBVMVdV-hDJn7Y8Pe9A/edit#
 
-# Live site URL - 
-turnitaround.org 
+# Accessibility Target link: 
+tbd 
 
-# Host Info - 
-Pantheon (Link)  
+# Technical Account Manager: 
+Hayley Belanger 
 
-# Design Assets - 
-(Link)
-
-# Preferred Launch - 
-Week of 10/11/21  
+# Developers and Designers involved: 
+TBD
