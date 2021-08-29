@@ -1,14 +1,17 @@
 # Turn-It-Around-
 Site Redesign and Rebuild 
 
-# Project Brief Link # - 
+# Project Brief - 
 https://docs.google.com/document/d/1ugkjEZyDsu4eNkVzg1C5lBoMLBVMVdV-hDJn7Y8Pe9A/edit#
 
-# Live site URL# - 
+# Live site URL - 
 turnitaround.org 
 
-Host Info - Pantheon (Link)  
+# Host Info - 
+Pantheon (Link)  
 
-Design Assets - (Link)
+# Design Assets - 
+(Link)
 
-Preferred Launch - Week of 10/11/21  
+# Preferred Launch - 
+Week of 10/11/21  
